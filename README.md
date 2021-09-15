@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayhannabi
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning TypeScript & Rust
 - 💞️ I’m looking to collaborate on Swift Projects
 - 📫 How to reach me: me@rayhannabi.com
 
